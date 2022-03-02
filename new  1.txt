@@ -1,0 +1,2 @@
+<button pid='$pro_id' style='float:right;' id='product' class='btn btn-danger btn-xs'>AddToCart</button>
+<a class="btn btn-success btn-block" href="cart.php?cart=<?php echo $pro_id?>">Buy Now</a>
